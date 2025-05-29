@@ -67,4 +67,3 @@ In many urban and semi-urban areas, street vendors set up weekly markets without
 * Helps authorities with **organized space management** and **smart city planning**.
 * Promotes **inclusive digital participation** with multilingual support.
 
----
